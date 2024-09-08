@@ -5,3 +5,5 @@
 --platform=linux/arm/v7 dreamacro/clash:dev
 --platform=linux/arm/v7 drakkan/sftpgo:edge-plugins
 --platform=linux/arm/v7 homeassistant/home-assistant:stable
+--platform=linux/arm/v7 haishanh/yacd:latest
+--platform=linux/arm/v7 dreamacro/clash:latest
