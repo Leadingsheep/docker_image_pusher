@@ -7,3 +7,4 @@
 --platform=linux/arm/v7 homeassistant/home-assistant:stable
 --platform=linux/arm/v7 haishanh/yacd:latest
 --platform=linux/arm/v7 dreamacro/clash:latest
+--platform=linux/arm/v7 a76yyyy/qiandao:20240210
