@@ -8,3 +8,4 @@
 --platform=linux/arm/v7 haishanh/yacd:latest
 --platform=linux/arm/v7 dreamacro/clash:latest
 --platform=linux/arm/v7 qdtoday/qd:latest
+--platform=linux/arm/v7 mzz2017/v2raya:latest
